@@ -1,0 +1,60 @@
+.content {
+
+  text-align: left;
+  font-family: sans-serif;
+  font-size: 20px;
+  margin-right: 200px;
+  margin-left: 25%;
+  margin-bottom: 600px;
+  margin-top: 200px;
+  position: absolute;
+  width: 50%;
+
+}
+
+
+
+.sidebar {
+
+text-align: left;
+font-family: sans-serif;
+margin-right: 5.5px;
+margin-left: 5.5px;
+margin-bottom: 5.5px;
+margin-top: 300px;
+position: fixed;
+
+}
+
+.linkscontent {
+
+  text-align: left;
+  font-family: sans-serif;
+  font-size: 50px;
+  margin-left: 25%;
+  margin-bottom: 200px;
+  margin-top: 100px;
+
+
+
+}
+
+.gallerycontent {
+
+margin-left: 21%;
+padding: 5px;
+
+
+}
+
+.next {
+
+  margin-left: 30%;
+  margin-bottom: 0px;
+  margin-top: 5.5px;
+font-family: sans-serif;
+font-size: 70px;
+color: blue;
+
+
+}
