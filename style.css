@@ -1,3 +1,23 @@
+/* unvisited link */
+a:link {
+  color: #ff471a;
+}
+
+/* visited link */
+a:visited {
+  color: #ff471a;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: #ff471a;
+}
+
 .content {
 
   text-align: left;
@@ -12,6 +32,20 @@
 
 }
 
+.name {
+
+margin-right: 600px;
+margin-left: 600px;
+margin-top: 0px;
+font-size: 60px;
+font-family: serif;
+font-style: italic;
+color: #ff471a;
+position: fixed;
+
+}
+
+
 
 
 .sidebar {
@@ -21,7 +55,7 @@ font-family: sans-serif;
 margin-right: 5.5px;
 margin-left: 5.5px;
 margin-bottom: 5.5px;
-margin-top: 300px;
+margin-top: 150px;
 position: fixed;
 
 }
@@ -30,10 +64,10 @@ position: fixed;
 
   text-align: left;
   font-family: sans-serif;
-  font-size: 50px;
+  font-size: 30px;
   margin-left: 25%;
-  margin-bottom: 200px;
-  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-top: 200px;
 
 
 
