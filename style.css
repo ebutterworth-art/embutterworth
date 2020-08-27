@@ -4,12 +4,6 @@ a:link {
   text-decoration: none;
 }
 
-/* visited link */
-a:visited {
-  color: #0099ff;
-  text-decoration: none;
-}
-
 /* mouse over link */
 a:hover {
   color: white;
@@ -46,7 +40,7 @@ margin-top: 0px;
 font-size: 60px;
 font-family: serif;
 font-style: italic;
-color: #DF0101;
+color: white;
 position: fixed;
 top: 0px;
 
