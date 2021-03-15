@@ -18,7 +18,17 @@ a:active {
 
 
 
+.name {
+width: 100%;
+position: fixed;
+margin-top: 0px;
+font-size: 60px;
+font-family: sans-serif;
+font-style: italic;
+color: white;
+top: 0px;
 
+}
 .content {
 
   text-align: left;
@@ -29,20 +39,6 @@ a:active {
   margin-bottom: 600px;
   position: absolute;
   width: 50%;
-
-}
-
-.name {
-
-margin-right: 600px;
-margin-left: 600px;
-margin-top: 0px;
-font-size: 60px;
-font-family: serif;
-font-style: italic;
-color: white;
-position: fixed;
-top: 0px;
 
 }
 
